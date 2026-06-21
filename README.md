@@ -1,2 +1,14 @@
 # 500draw-archive
-HTML page archive and documentation
+
+页面归档与发布记录
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
